@@ -16,7 +16,9 @@
 <!-- 👋💙 🤝 -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanFouad1&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
   
-  # 📊GitHub Stats 
+  # 📊 My latest work
+  https://github.com/ahmedHamdyyyy/E-commerce-Baraka/assets/66388483/794dbe46-fcd0-4dd8-a38c-8641109b7bb2
+
 
   
   <h2> Languages and Tools </h2>
